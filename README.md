@@ -10,7 +10,7 @@ In most cases, you’ll be asked about compensation over the phone or in person.
 
 > “I understand the market rate for developers in [insert your city] is $X - $Y and I’m comfortable with that range. How does that align with the compensation you have in mind for this role?”
 
-**Note:** In these two suggestions we concluded them with an ask for confirmation from the employer that the range you gave is within the employer’s budget. Consider those questions optional depending on your situation. There is a wealth of salary data for developers in major cities, but in non-major cities and more rural areas, there may be less data. It can be helpful to get a sense of what the market rate is in your area by asking employers what they have budgeted for a role. Your coach can help you with this question too, of course! 
+**Note:** *In these two suggestions we concluded them with an ask for confirmation from the employer that the range you gave is within the employer’s budget. Consider those questions optional depending on your situation. There is a wealth of salary data for developers in major cities, but in non-major cities and more rural areas, there may be less data. It can be helpful to get a sense of what the market rate is in your area by asking employers what they have budgeted for a role. Your coach can help you with this question too, of course!*
 
 If you are asked for your salary expectations over email, in most cases it is best practice to kindly ask the employer if they have a few minutes to speak on the phone about compensation. We advise this because it is difficult to convey tone over email, and if you offer a range over email that is not in line with what the employer has budgeted, the conversation may end prematurely. If and when this happens, ask your coach to have a quick call to help you prepare. It is best practice not to start what could become a negotiation conversation over email. We will talk more about this in the “Managing a Job Offer” lesson. 
 
@@ -37,12 +37,5 @@ Instead show that you’ve done the research and ask for confirmation. For examp
 Talking about salary can be a personal or sensitive topic for some people. Make sure you’re prepared. If you’re not sure what your expectations should be, your career coach can help you with this. First, do your search on salaries in your area and bring those findings to your meeting with your career coach so that you can have a productive conversation. 
 
 Second, write a script and record yourself saying that script. The more you practice talking about this topic, the more comfortable you become since this trips up a lot of people.
-
-
-
-
-
-
-
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/the-salary-question'>The Salary Question </a> on Learn.co and start learning to code for free.</p>
