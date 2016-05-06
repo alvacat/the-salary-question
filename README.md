@@ -18,7 +18,7 @@ Based on the [work that we’ve been doing in New York](http://flatironschool.co
 
 It’s generally a better idea to give a number or range rather than only responding with “What do you have in mind?” or “I’m looking for market rate.” Employers, especially those working in human resources or recruitment, want to know your expectations so that they can determine if the salary you want is within the budget that is allotted for the role.
 
-[Payscale](http://www.payscale.com/research/US/Job=Software_Developer/Salary) is a resource you can use to find out what salary you might be able to expect in your area. You can refine your results by location. [Salary.com](http://www.salary.com/) and [Glassdoor](http://www.glassdoor.com/)are two other resources that you can also reference to gather salary data. 
+[Payscale](http://www.payscale.com/research/US/Job=Software_Developer/Salary) is a resource you can use to find out what salary you might be able to expect in your area. You can refine your results by location. [Salary.com](http://www.salary.com/) and [Glassdoor](http://www.glassdoor.com/) are two other resources that you can also reference to gather salary data. 
 
 ## What if the Salary Question Doesn’t Come Up 
 
