@@ -38,4 +38,10 @@ Talking about salary can be a personal or sensitive topic for some people. Make 
 
 Second, write a script and record yourself saying that script. The more you practice talking about this topic, the more comfortable you become since this trips up a lot of people.
 
+## Resources
+* [Negotiating Your Startup Job Offer](http://rob.by/2013/negotiating-your-startup-job-offer/)
+* [The Option Pool Shuffle](http://venturehacks.com/articles/option-pool-shuffle#market)
+* [5 Questions You Should Ask Before Accepting a Startup Job Offer](http://www.inc.com/atish-davda/5-questions-you-should-ask-before-taking-a-start-up-job-offer.html)
+
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/the-salary-question'>The Salary Question </a> on Learn.co and start learning to code for free.</p>
