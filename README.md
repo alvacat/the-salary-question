@@ -36,6 +36,8 @@ Instead show that you’ve done the research and ask for confirmation. For examp
 
 Talking about salary can be a personal or sensitive topic for some people. Make sure you’re prepared. If you’re not sure what your expectations should be, your career coach can help you with this. First, do your search on salaries in your area and bring those findings to your meeting with your career coach so that you can have a productive conversation. 
 
+Although it’s highly personal, it’s important to be able to discuss compensation directly and graciously.  As with the rest of the interview process, you are demonstrating what it is like to work with you, and this is representative of how you communicate and interact with others
+
 Second, write a script and record yourself saying that script. The more you practice talking about this topic, the more comfortable you become since this trips up a lot of people.
 
 ## Resources
