@@ -32,13 +32,11 @@ Don’t bring up this conversation by saying,  "I'm looking for a salary of at l
 
 Instead show that you’ve done the research and ask for confirmation. For example, you can say “Based on my research, I’ve seen that average salaries for a company of your size and a role like this are between $X and $Y - does that align with what you've budgeted for this role?"
 
-## Assignment
+## Next Steps
 
 Talking about salary can be a personal or sensitive topic for some people. Make sure you’re prepared. If you’re not sure what your expectations should be, your career coach can help you with this. First, do your search on salaries in your area and bring those findings to your meeting with your career coach so that you can have a productive conversation. 
 
-Although it’s highly personal, it’s important to be able to discuss compensation directly and graciously.  As with the rest of the interview process, you are demonstrating what it is like to work with you, and this is representative of how you communicate and interact with others
-
-Second, write a script and record yourself saying that script. The more you practice talking about this topic, the more comfortable you become since this trips up a lot of people.
+Although it’s highly personal, it’s important to be able to discuss compensation directly and graciously.  As with the rest of the interview process, you are demonstrating what it is like to work with you, and this is representative of how you communicate and interact with others. The more you practice talking about this topic, the more comfortable you become since this trips up a lot of people.
 
 ## Resources
 * [Negotiating Your Startup Job Offer](http://rob.by/2013/negotiating-your-startup-job-offer/)
