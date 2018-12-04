@@ -6,15 +6,15 @@ You may be asked at any time (or at no time) in the interview process about your
 
 In most cases, you’ll be asked about compensation over the phone or in person. Below are two possible ways to respond when you’re asked for your salary expectations:
 
-> “Based on my past experiences and what I know junior developers in [insert your city] earn on average, I’m looking in the (similar) range of $X - $Y. So that I have an idea of your budget and expectations, is this in line with the range you are considering for this role?”
+*> “Based on my past experiences and what I know junior developers in [insert your city] earn on average, I’m looking in the (similar) range of $X - $Y. So that I have an idea of your budget and expectations, is this in line with the range you are considering for this role?”**
 
-> “I understand the market rate for developers in [insert your city] is $X - $Y and I’m comfortable with that range. How does that align with the compensation you have in mind for this role?”
+*> “I understand the market rate for developers in [insert your city] is $X - $Y and I’m comfortable with that range. How does that align with the compensation you have in mind for this role?”*
 
-**Note:** *In these two suggestions we concluded them with an ask for confirmation from the employer that the range you gave is within the employer’s budget. Consider those questions optional depending on your situation. There is a wealth of salary data for developers in major cities, but in non-major cities and more rural areas, there may be less data. It can be helpful to get a sense of what the market rate is in your area by asking employers what they have budgeted for a role. Your coach can help you with this question too, of course!*
+**Note:** In these two suggestions we concluded them with an ask for confirmation from the employer that the range you gave is within the employer’s budget. Consider those questions optional depending on your situation. There is a wealth of salary data for developers in major cities, but in non-major cities and more rural areas, there may be less data. It can be helpful to get a sense of what the market rate is in your area by asking employers what they have budgeted for a role. Your Career Coach can help you with this question too, of course!
 
-If you are asked for your salary expectations over email, in most cases it is best practice to kindly ask the employer if they have a few minutes to speak on the phone about compensation. We advise this because it is difficult to convey tone over email, and if you offer a range over email that is not in line with what the employer has budgeted, the conversation may end prematurely. If and when this happens, ask your coach to have a quick call to help you prepare. It is best practice not to start what could become a negotiation conversation over email. We will talk more about this in the “Managing a Job Offer” lesson. 
+If you are asked for your salary expectations over email, in most cases it is best practice to kindly ask the employer if they have a few minutes to speak on the phone about compensation. We advise this because it is difficult to convey tone over email, and if you offer a range over email that is not in line with what the employer has budgeted, the conversation may end prematurely. If and when this happens, ask your Career Coach to have a quick call to help you prepare. It is best practice not to start what could become a negotiation conversation over email. We will talk more about this in the “Managing a Job Offer” lesson. 
 
-Based on the [work that we’ve been doing in New York](http://flatironschool.com/jobs-report-2015.html) for the past four years, the broad range of salaries for junior-level developers that we’ve commonly seen is 60-90K. Smaller companies, startups, and non-profits pay on the lower end of that range. Larger companies and specific industries - i.e., financial services - pay on the higher end of that range. Based on what you know about the job you’re interviewing for, choose a range that’s within $10K.
+Based on the [work that we’ve been doing in New York](https://flatironschool.com/outcomes/) for the past four years, the broad range of salaries for junior-level developers that we’ve commonly seen is $60-90K. Smaller companies, startups, and non-profits pay on the lower end of that range. Larger companies and specific industries (i.e., financial services) pay on the higher end of that range. Based on what you know about the job you’re interviewing for, choose a range that’s within $10K.
 
 It’s generally a better idea to give a number or range rather than only responding with “What do you have in mind?” or “I’m looking for market rate.” Employers, especially those working in human resources or recruitment, want to know your expectations so that they can determine if the salary you want is within the budget that is allotted for the role.
 
@@ -34,7 +34,7 @@ Instead show that you’ve done the research and ask for confirmation. For examp
 
 ## Next Steps
 
-Talking about salary can be a personal or sensitive topic for some people. Make sure you’re prepared. If you’re not sure what your expectations should be, your career coach can help you with this. First, do your search on salaries in your area and bring those findings to your meeting with your career coach so that you can have a productive conversation. 
+Talking about salary can be a personal or sensitive topic for some people. Make sure you’re prepared. If you’re not sure what your expectations should be, your Career Coach can help you with this. First, do your search on salaries in your area and bring those findings to your meeting with your Career Coach so that you can have a productive conversation. 
 
 Although it’s highly personal, it’s important to be able to discuss compensation directly and graciously.  As with the rest of the interview process, you are demonstrating what it is like to work with you, and this is representative of how you communicate and interact with others. The more you practice talking about this topic, the more comfortable you become since this trips up a lot of people.
 
@@ -42,6 +42,3 @@ Although it’s highly personal, it’s important to be able to discuss compensa
 * [Negotiating Your Startup Job Offer](http://rob.by/2013/negotiating-your-startup-job-offer/)
 * [The Option Pool Shuffle](http://venturehacks.com/articles/option-pool-shuffle#market)
 * [5 Questions You Should Ask Before Accepting a Startup Job Offer](http://www.inc.com/atish-davda/5-questions-you-should-ask-before-taking-a-start-up-job-offer.html)
-
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/the-salary-question'>The Salary Question </a> on Learn.co and start learning to code for free.</p>
