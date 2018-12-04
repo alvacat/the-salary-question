@@ -6,9 +6,9 @@ You may be asked at any time (or at no time) in the interview process about your
 
 In most cases, you’ll be asked about compensation over the phone or in person. Below are two possible ways to respond when you’re asked for your salary expectations:
 
-*> “Based on my past experiences and what I know junior developers in [insert your city] earn on average, I’m looking in the (similar) range of $X - $Y. So that I have an idea of your budget and expectations, is this in line with the range you are considering for this role?”**
+> “Based on my past experiences and what I know junior developers in [insert your city] earn on average, I’m looking in the (similar) range of $X - $Y. So that I have an idea of your budget and expectations, is this in line with the range you are considering for this role?”
 
-*> “I understand the market rate for developers in [insert your city] is $X - $Y and I’m comfortable with that range. How does that align with the compensation you have in mind for this role?”*
+> “I understand the market rate for developers in [insert your city] is $X - $Y and I’m comfortable with that range. How does that align with the compensation you have in mind for this role?”
 
 **Note:** In these two suggestions we concluded them with an ask for confirmation from the employer that the range you gave is within the employer’s budget. Consider those questions optional depending on your situation. There is a wealth of salary data for developers in major cities, but in non-major cities and more rural areas, there may be less data. It can be helpful to get a sense of what the market rate is in your area by asking employers what they have budgeted for a role. Your Career Coach can help you with this question too, of course!
 
