@@ -28,7 +28,7 @@ If the salary question doesn’t come up, it is not appropriate for you to bring
 
 However if the company has made it clear that they have the intention of offering you a job and compensation hasn’t been discussed, it is appropriate for you to bring it up to set the employer’s expectations. 
 
-Don’t bring up this conversation by saying,  "I'm looking for a salary of at least $X.” or “You haven’t brought up compensation yet and I want to talk about it. I”m looking for $X.” 
+Don’t bring up this conversation by saying,  "I'm looking for a salary of at least $X.” or “You haven’t brought up compensation yet and I want to talk about it. I'm looking for $X.” 
 
 Instead show that you’ve done the research and ask for confirmation. For example, you can say “Based on my research, I’ve seen that average salaries for a company of your size and a role like this are between $X and $Y - does that align with what you've budgeted for this role?"
 
